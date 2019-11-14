@@ -1,5 +1,5 @@
 {
-  "name": "generator-tsx",
+  "name": "generator-redux",
   "version": "0.0.0",
   "description": "boilerplate fix",
   "homepage": "",
@@ -73,6 +73,6 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "freethinkel/generator-tsx",
+  "repository": "freethinkel/generator-redux",
   "license": "MIT"
 }
